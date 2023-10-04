@@ -13,8 +13,13 @@ h1{
     text-align: center;
 }
 
-.skip{
-    margin: -40;
+.skip a{
+    position: absolute;
+    margin-top: -40px;
+}
+
+.skip a:focus{
+    margin-top: 20px;
 }
 
 h2{
