@@ -13,14 +13,14 @@ h1{
     text-align: center;
 }
 
-.skip a{
+/* .skip{
     position: absolute;
     margin-top: -40px;
-}
-
-.skip a:focus{
+} */
+/* 
+.skip:focus{
     margin-top: 20px;
-}
+} */
 
 h2{
     color: #029356;
